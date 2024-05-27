@@ -90,7 +90,7 @@
         .page-link {
             display: block;
             padding: 5px 10px;
-            color: $header-text-color;
+            color: $text-color;
             font-size: 18px;
             &:not(:last-child) {
                 margin-right: 0;
@@ -100,7 +100,7 @@
         .page-cur {
             display: block;
             padding: 5px 10px;
-            color: $header-emph-color;
+            color: $text-color;
             font-size: 18px;
             &:not(:last-child) {
                 margin-right: 0;
