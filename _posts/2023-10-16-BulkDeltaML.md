@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "∆-learning of band structures published in <i>Chem. Mater.</i>"
-description: "∆-Learning enables accurate prediction of hyrbid-functional band structures at semi-local cost."
+description: "∆-Learning enables accurate prediction of hybrid-functional band structures at semi-local cost."
 date:   2023-10-16 08:30:00 -0500
 ---
 
