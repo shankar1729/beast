@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solvation technique for GW calculations published in <i>J. Comput. Chem.</i>"
+title:  "ML force fields for inhomogeneous fluids published in <i>J. Comput. Chem.</i>"
 description: "Imhomogeneous training data improves the reliability of machine learned interatomic potentials."
 date:   2024-04-25 08:30:00 -0500
 ---
