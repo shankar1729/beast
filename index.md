@@ -26,6 +26,8 @@ The BEAST team conducts [annual workshops](/workshops) that introduce the most r
 + University of South Carolina (PI: Christopher Sutton)
 + Lawrence Berkeley National Laboratory (PI: Mauro Del Ben)
 
+<img width=100% src="/images/institutes.jpg"/>
+
 ## Software
 
 + [JDFTx](http://jdftx.org)
