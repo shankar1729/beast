@@ -13,4 +13,4 @@ See the workshop pages of each year for further details on the content.
 
 + [1<sup>st</sup> BEAST Workshop, 2022](/workshops/2022/)
 + [2<sup>nd</sup> BEAST Workshop, 2023](/workshops/2023/)
-+ [3<sup>rd</sup> BEAST Workshop, 2023](/workshops/2024/)
++ [3<sup>rd</sup> BEAST Workshop, 2024](/workshops/2024/)
