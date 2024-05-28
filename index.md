@@ -10,11 +10,13 @@ Computational modeling of electrochemistry is limited in accuracy by
 2) the deficiencies of density functional theory (DFT), the primary computational tool for reaction modeling, in describing charge transfer and reaction barriers.
 Accurate reaction barriers are crucial for connecting predictions to measured rates of chemical reactions, and quantum chemical techniques that may be accurate enough are not yet practicable for heterogeneous and electrocatalyst systems involving solid-liquid interfaces.
 
-Funded by the DoE Computational Chemical Sciences program under DE-SC0022247 since October 2021, the BEAST collaboration is addressing both challenges above by developing accurate and efficient exascale-ready solvated beyond-DFT methods.
+Funded by the DoE Computational Chemical Sciences program under DE-SC0022247 since October 2021, the BEAST collaboration is addressing both challenges above by developing accurate and efficient exascale-ready solvated beyond-DFT methods, including:
 
-+ The first ingredient in these methods are [accurate atomic-scale electrolyte solvation models](/thrust1) that capture the equilibrium effect of electrolyte in a single electronic structure calculation.
-+ The second ingredient is the incorporation of GW many-body perturbation theory and the [random phase approximation (RPA) total energy](/thrust2), which are accurate methods beyond DFT, into solvated and grand-canonical techniques to make them practicable for electrochemistry including solvation and bias effects.
-+ Finally, in addition to optimizing these combined techniques for exascale computing, we will also make them more widely applicable using machine learning (ML) approaches trained to a beyond-DFT electrochemical database, [BEAST DB](https://beastdb.nrel.gov) to [make RPA-quality predictions at DFT cost](/thrust3).
++ [Accurate atomic-scale electrolyte solvation models](/thrust1) that capture the equilibrium effect of electrolyte in a single electronic structure calculation.
++ GW many-body perturbation theory and the [random phase approximation (RPA) total energy](/thrust2), which are accurate methods beyond DFT, into solvated and grand-canonical techniques to make them practicable for electrochemistry including solvation and bias effects.
++ Machine learning (ML) approaches trained to a beyond-DFT electrochemical database, [BEAST DB](https://beastdb.nrel.gov) to [make RPA-quality predictions at DFT cost](/thrust3) in order to make high-quality predictions based on the exascale methods more widely accessible to the community.
+
+The BEAST team conducts [annual workshops](/workshops) that introduce the most recent techniques for accurate first-principles electrochemistry, starting from a beginner's level on each of the software tools being developed as a part of this project.
 
 ## Team
 
