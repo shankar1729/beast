@@ -18,6 +18,8 @@ Funded by the DoE Computational Chemical Sciences program under DE-SC0022247 sin
 
 The BEAST team conducts [annual workshops](/workshops) that introduce the most recent techniques for accurate first-principles electrochemistry, starting from a beginner's level on each of the software tools being developed as a part of this project.
 
+<img alt="Institute logos" width="100%" src="/images/institutes.jpg"/>
+
 ## Team
 
 + Rensselaer Polytechnic Institute (PI: Ravishankar Sundararaman)
@@ -26,13 +28,24 @@ The BEAST team conducts [annual workshops](/workshops) that introduce the most r
 + University of South Carolina (PI: Christopher Sutton)
 + Lawrence Berkeley National Laboratory (PI: Mauro Del Ben)
 
-<img width=100% src="/images/institutes.jpg"/>
-
 ## Software
 
-+ [JDFTx](http://jdftx.org)
-+ [BerkeleyGW](https://berkeleygw.org)
-+ [QimPy](https://qimpy.org)
+The techniques developed by the BEAST team are available through the following open-source software projects.
+
+<table>
+<tr>
+<th style="width: 25%">
+<a href="http://jdftx.org"><img alt="JDFTx" width="50%" src="/images/jdftx.png"/></a>
+</th>
+<th style="width: 50%">
+<a href="https://berkeleygw.org"><img alt="BerkeleyGW" width="80%" src="/images/bgw.png"/></a>
+</th>
+<th style="width: 25%">
+<a href="https://qimpy.org"><img alt="QimPy" width="80%" src="/images/qimpy.png"/></a>
+</th>
+</tr>
+</table>
+
 
 ## News
 
