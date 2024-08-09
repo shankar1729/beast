@@ -13,6 +13,41 @@ permalink: /workshops/2024/
 + Univeristy of Colorado, Boulder CO, USA, and
 + Online (on Zoom)
 
+## Tentative Agenda
+
+Please review [Setup instructions](setup) before / at the start of the workshop.
+
+### Day 1: Thursday, August 22, 2024
+
++ **9:00 am PDT** [Welcome, introduction to BEAST](beast.pdf)
++ **9:10 am PDT** [Introduction to Joint Density-Functional Theory (JDFT)](jdft.pdf)
++ **9:45 am PDT** [JDFT calculations in practice with JDFTx (and a QimPy intro)](jdftx.pdf)
++ **10:00 am PDT** Practical DFT session I: molecules and solids
++ **12:00 pm PDT** Break for lunch
++ **1:00 pm PDT**  Practical DFT session II: surfaces and adsorbates
++ **3:00 pm PDT**
+   - **Option 1**:  Practical DFT session III: electrocatalytic pathways
+   - **Option 2**:  Practical DFT calculations with QimPy
++ **5:00 pm PDT** Adjourn
+
+### Day 2: Friday, August 23, 2024
+
++ **9:00 am PDT** [Introduction to JDFT+RPA: Theory and applications](rpa.pdf)
++ **9:30 am PDT** [JDFT+RPA calculations in practice with JDFTx+BGW](jdftx-bgw.pdf)
++ **9:50 am PDT** Introduction to machine-learned interatomic potentials
++ **10:00 am PDT**
+   - **Option 1**: Practical JDFTx+BGW session for RPA adsorption energies
+   - **Option 2**: Continue Practical DFT sessions II and III
++ **12:00 pm PDT** Break for lunch
++ **1:00 pm PDT** [BEAST DB: preview and opportunity for community contributions](beastdb.pdf)
++ **2:00 pm PDT** 
+   - **Option 1**: Machine-learned interatomic potentials for adsorption energies
+   - **Option 2**: Continue JDFTx+BGW session for RPA adsorption energies
++ **4:00 pm PDT** Panel discussions, Q&amp;A, feature requests
++ **5:00 pm PDT** Adjourn 
+
+## Original announcement
+
 [Register here](https://forms.gle/ydLz6Fu7Qpfb7ysW9) (free).
 The workshop starts on the last day of the ACS Fall Meeting at Denver, CO, making it convenient for ACS attendees to join us in person nearby in Boulder, CO.
 
