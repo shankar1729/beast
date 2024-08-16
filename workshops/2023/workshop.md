@@ -14,7 +14,7 @@ permalink: /workshops/2023/
 + Online (on Zoom)
 
 
-## Tentative Agenda
+## Agenda
 
 Please review [Setup instructions](setup) before / at the start of the workshop.
 

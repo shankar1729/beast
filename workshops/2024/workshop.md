@@ -10,10 +10,10 @@ permalink: /workshops/2024/
 
 <b>August 22 - 23, 2024, 9 am - 5 pm MDT</b> in hybrid in-person/online mode at:
 
-+ Univeristy of Colorado, Boulder CO, USA, and
++ JSCBB (CU Boulder), 3415 Colorado Ave, Boulder CO, USA, and
 + Online (on Zoom)
 
-## Tentative Agenda
+## Agenda
 
 Please review [Setup instructions](setup) before / at the start of the workshop.
 
