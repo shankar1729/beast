@@ -19,32 +19,32 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
 
 ### Day 1: Thursday, August 22, 2024
 
-+ **9:00 am PDT** [Welcome, introduction to BEAST](beast.pdf)
-+ **9:10 am PDT** [Introduction to Joint Density-Functional Theory (JDFT)](jdft.pdf)
-+ **9:45 am PDT** [JDFT calculations in practice with JDFTx (and a QimPy intro)](jdftx.pdf)
-+ **10:00 am PDT** Practical DFT session I: molecules and solids
-+ **12:00 pm PDT** Break for lunch
-+ **1:00 pm PDT**  Practical DFT session II: surfaces and adsorbates
-+ **3:00 pm PDT**
++ **9:00 am MDT** [Welcome, introduction to BEAST](beast.pdf)
++ **9:10 am MDT** [Introduction to Joint Density-Functional Theory (JDFT)](jdft.pdf)
++ **9:45 am MDT** [JDFT calculations in practice with JDFTx (and a QimPy intro)](jdftx.pdf)
++ **10:00 am MDT** Practical DFT session I: molecules and solids
++ **12:00 pm MDT** Break for lunch
++ **1:00 pm MDT**  Practical DFT session II: surfaces and adsorbates
++ **3:00 pm MDT**
    - **Option 1**:  Practical DFT session III: electrocatalytic pathways
    - **Option 2**:  Practical DFT calculations with QimPy
-+ **5:00 pm PDT** Adjourn
++ **5:00 pm MDT** Adjourn
 
 ### Day 2: Friday, August 23, 2024
 
-+ **9:00 am PDT** [Introduction to JDFT+RPA: Theory and applications](rpa.pdf)
-+ **9:30 am PDT** [JDFT+RPA calculations in practice with JDFTx+BGW](jdftx-bgw.pdf)
-+ **9:50 am PDT** Introduction to machine-learned interatomic potentials
-+ **10:00 am PDT**
++ **9:00 am MDT** [Introduction to JDFT+RPA: Theory and applications](rpa.pdf)
++ **9:30 am MDT** [JDFT+RPA calculations in practice with JDFTx+BGW](jdftx-bgw.pdf)
++ **9:50 am MDT** Introduction to machine-learned interatomic potentials
++ **10:00 am MDT**
    - **Option 1**: Practical JDFTx+BGW session for RPA adsorption energies
    - **Option 2**: Continue Practical DFT sessions II and III
-+ **12:00 pm PDT** Break for lunch
-+ **1:00 pm PDT** [BEAST DB: preview and opportunity for community contributions](beastdb.pdf)
-+ **2:00 pm PDT** 
++ **12:00 pm MDT** Break for lunch
++ **1:00 pm MDT** [BEAST DB: preview and opportunity for community contributions](beastdb.pdf)
++ **2:00 pm MDT** 
    - **Option 1**: Machine-learned interatomic potentials for adsorption energies
    - **Option 2**: Continue JDFTx+BGW session for RPA adsorption energies
-+ **4:00 pm PDT** Panel discussions, Q&amp;A, feature requests
-+ **5:00 pm PDT** Adjourn 
++ **4:00 pm MDT** Panel discussions, Q&amp;A, feature requests
++ **5:00 pm MDT** Adjourn 
 
 ## Original announcement
 
