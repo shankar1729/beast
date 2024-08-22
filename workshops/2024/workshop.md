@@ -41,10 +41,24 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
 + **12:00 pm MDT** Break for lunch
 + **1:00 pm MDT** [BEAST DB: preview and opportunity for community contributions](beastdb.pdf)
 + **2:00 pm MDT** 
-   - **Option 1**: Machine-learned interatomic potentials for adsorption energies
+   - **Option 1**: [Machine-learned interatomic potentials for adsorption energies](mlip.pdf)
    - **Option 2**: Continue JDFTx+BGW session for RPA adsorption energies
 + **4:00 pm MDT** Panel discussions, Q&amp;A, feature requests
 + **5:00 pm MDT** Adjourn 
+
+### Tutorial files
+
+The code setup on NERSC for the tutorials and the inputs should remain accessible
+to any one with a NERSC account even after the end of the workshop.
+However, you may need to modify batch scripts to remove the reservation / change the account.
+
+We have also bundled all the tutorial instructions and input files for download as
+[Calculations-clean.tbz2](Calculations-clean.tbz2) to your own computing resource.
+You will need to setup JDFTx, BerkeleyGW and GCNEB to work through these tutorials there,
+and modify the batch scripts / set up your own interactive sessions as appropriate.
+Additionally, to run the visualization notebooks, you will need to place
+this custom python package, [ase_ext.tbz2](ase_ext.tbz2), in your PYTHONPATH
+within an environment that includes the `ase` and `scikit-image` packages.
 
 ## Original announcement
 

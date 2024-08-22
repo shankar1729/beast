@@ -69,6 +69,7 @@ and change your terminal prompt to be more colorful and informative.
 
 You can now unselect `View -> Show Hidden Files` on the menu, so as to reduce clutter in the file browser.
 
+**NOTE:** Some training accounts don't have a `.bashrc` that sources this `.bashrc.ext`. If you find that you have no `.bashrc` in your home directory (`cd ~; ls -a` in a terminal), then save the above contents directly to `.bashrc` instead (or `mv ~/.bashrc.ext ~/.bashrc` after saving the above).
 
 ## Copy the tutorials
 
