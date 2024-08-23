@@ -34,14 +34,14 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
 
 + **9:00 am MDT** [Introduction to JDFT+RPA: Theory and applications](rpa.pdf)
 + **9:30 am MDT** [JDFT+RPA calculations in practice with JDFTx+BGW](jdftx-bgw.pdf)
-+ **9:50 am MDT** Introduction to machine-learned interatomic potentials
++ **9:50 am MDT** [Introduction to machine-learned interatomic potentials](mlip.pdf)
 + **10:00 am MDT**
    - **Option 1**: Practical JDFTx+BGW session for RPA adsorption energies
    - **Option 2**: Continue Practical DFT sessions II and III
 + **12:00 pm MDT** Break for lunch
 + **1:00 pm MDT** [BEAST DB: preview and opportunity for community contributions](beastdb.pdf)
 + **2:00 pm MDT** 
-   - **Option 1**: [Machine-learned interatomic potentials for adsorption energies](mlip.pdf)
+   - **Option 1**: Machine-learned interatomic potentials for adsorption energies
    - **Option 2**: Continue JDFTx+BGW session for RPA adsorption energies
 + **4:00 pm MDT** Panel discussions, Q&amp;A, feature requests
 + **5:00 pm MDT** Adjourn 
