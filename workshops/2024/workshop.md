@@ -39,7 +39,9 @@ Please review [Setup instructions](setup) before / at the start of the workshop.
    - **Option 1**: Practical JDFTx+BGW session for RPA adsorption energies
    - **Option 2**: Continue Practical DFT sessions II and III
 + **12:00 pm MDT** Break for lunch
-+ **1:00 pm MDT** [BEAST DB: preview and opportunity for community contributions](beastdb.pdf)
++ **1:00 pm MDT** BEAST DB: preview and opportunity for community contributions
+   - [Slides](beastdb.pdf)
+   - [Tutorial](beastdb-tutorial.pdf)
 + **2:00 pm MDT** 
    - **Option 1**: Machine-learned interatomic potentials for adsorption energies
    - **Option 2**: Continue JDFTx+BGW session for RPA adsorption energies
